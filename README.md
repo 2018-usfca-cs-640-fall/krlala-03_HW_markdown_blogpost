@@ -3,7 +3,7 @@
 
 The **goal of this assignment** is to have you practice using Atom to write longer texts in markdown, and to use the git and GitHub workflow we used in class to track your changes as you work and to submit your work back to the class GitHub organization when you are done. You will be writing an essay in the style of a blog post on the similarities and differences between the three major extant computer operating system families: Windows, MacOS, and Linux.
 
-As in all assignments in this class, you are free to reuse code and writing from any of your own past assignments, and to use whatever resources you can find on the web to help you. Keep in mind, though, that using resources from the Internet is different from copying resources from the Internet. **Plagarism is not OK.**
+As in all assignments in this class, you are free to reuse code and writing from any of your own past assignments, and to use whatever resources you can find on the web to help you. Keep in mind, though, that using resources from the Internet is different from copying resources from the Internet. **Plagarism is not OK.** 
 
 You are free to work with others in the class on this, or ask others for help, but each student must do their own research and writing and must submit their own work individually. You should also practice using Google to search for help if you don't remember how to do something on your own.
 
